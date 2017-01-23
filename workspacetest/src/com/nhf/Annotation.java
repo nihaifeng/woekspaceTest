@@ -17,6 +17,9 @@ public class Annotation
         name = myname;
     }
     
+    /**
+    *   add comment
+    */
     public String getAge(){
         return age;
     }
