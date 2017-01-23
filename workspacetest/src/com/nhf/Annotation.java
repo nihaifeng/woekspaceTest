@@ -16,6 +16,10 @@ public class Annotation
     public void setName(String myname){
         name = myname;
     }
+    
+    public String getAge(){
+        return age;
+    }
             
     
 }
