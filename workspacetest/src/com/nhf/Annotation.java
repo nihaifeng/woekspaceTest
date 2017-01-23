@@ -13,4 +13,9 @@ public class Annotation
         return name;
     }
     
+    public void setName(String myname){
+        name = myname;
+    }
+            
+    
 }
