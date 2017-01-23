@@ -7,4 +7,10 @@ public class Annotation
     
     }
     
+    private String name;
+    
+    public String getName(){
+        return name;
+    }
+    
 }
