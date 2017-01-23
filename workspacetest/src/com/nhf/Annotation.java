@@ -6,7 +6,7 @@ public class Annotation
     {
     
     }
-    
+    private String age;
     private String name;
     
     public String getName(){
