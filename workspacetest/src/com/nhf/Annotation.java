@@ -19,7 +19,9 @@ public class Annotation
     }
 
 
-
+	/**
+	*    add setAge comment
+	*/
 	public void setAge(String age) {
 		this.age = age;
 	}
@@ -39,8 +41,6 @@ public class Annotation
 	public void setSex(String sex) {
 		this.sex = sex;
 	}
-            
-    
 
     
   
