@@ -8,6 +8,7 @@ public class Annotation
     }
     private String age;
     private String name;
+    private String sex;
     
     public String getName(){
         return name;
@@ -30,7 +31,16 @@ public class Annotation
     public String getAge(){
         return age;
     }
+
+	public String getSex() {
+		return sex;
+	}
+
+	public void setSex(String sex) {
+		this.sex = sex;
+	}
             
+    
 
     
   
