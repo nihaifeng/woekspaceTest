@@ -17,13 +17,21 @@ public class Annotation
         name = myname;
     }
 
-	public String getAge() {
-		return age;
-	}
+
 
 	public void setAge(String age) {
 		this.age = age;
 	}
+
+    
+    /**
+    *   add comment
+    */
+    public String getAge(){
+        return age;
+    }
+            
+
     
   
 }
